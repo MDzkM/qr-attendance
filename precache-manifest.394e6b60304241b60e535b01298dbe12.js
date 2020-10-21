@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aad1cb6e363cf2bc3860348b77f55b03",
+    "revision": "94b85778dc1ededcebf0369c0daceb5c",
     "url": "/qr-attendance/index.html"
   },
   {
-    "revision": "c05f159767faf3635252",
+    "revision": "e6a68943424f63171067",
     "url": "/qr-attendance/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/qr-attendance/static/js/2.0dd1055f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c05f159767faf3635252",
-    "url": "/qr-attendance/static/js/main.808c238c.chunk.js"
+    "revision": "e6a68943424f63171067",
+    "url": "/qr-attendance/static/js/main.172fac46.chunk.js"
   },
   {
     "revision": "a80033cf46ce9421c679",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/qr-attendance/static/css/main.5f361e03.chunk.css",
-    "main.js": "/qr-attendance/static/js/main.808c238c.chunk.js",
-    "main.js.map": "/qr-attendance/static/js/main.808c238c.chunk.js.map",
+    "main.js": "/qr-attendance/static/js/main.172fac46.chunk.js",
+    "main.js.map": "/qr-attendance/static/js/main.172fac46.chunk.js.map",
     "runtime-main.js": "/qr-attendance/static/js/runtime-main.4bd0af49.js",
     "runtime-main.js.map": "/qr-attendance/static/js/runtime-main.4bd0af49.js.map",
     "static/js/2.0dd1055f.chunk.js": "/qr-attendance/static/js/2.0dd1055f.chunk.js",
     "static/js/2.0dd1055f.chunk.js.map": "/qr-attendance/static/js/2.0dd1055f.chunk.js.map",
     "index.html": "/qr-attendance/index.html",
-    "precache-manifest.76c0286a4e47dc999eddd90197c58d9c.js": "/qr-attendance/precache-manifest.76c0286a4e47dc999eddd90197c58d9c.js",
+    "precache-manifest.394e6b60304241b60e535b01298dbe12.js": "/qr-attendance/precache-manifest.394e6b60304241b60e535b01298dbe12.js",
     "service-worker.js": "/qr-attendance/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/qr-attendance/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.0dd1055f.chunk.js.LICENSE.txt": "/qr-attendance/static/js/2.0dd1055f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4bd0af49.js",
     "static/js/2.0dd1055f.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.808c238c.chunk.js"
+    "static/js/main.172fac46.chunk.js"
   ]
 }
